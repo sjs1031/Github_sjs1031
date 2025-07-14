@@ -1,0 +1,3 @@
+# Running doctest From a Separate File
+from Chapter028_01_dtest2 import double
+double(4)

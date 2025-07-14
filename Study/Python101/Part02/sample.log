@@ -1,0 +1,7 @@
+INFO:root:Informational message
+ERROR:root:An error has happened!
+ERROR:ex:Error
+Traceback (most recent call last):
+  File "c:\Users\sjs10\OneDrive\git\RuleXuan_Python_Study\Python\Python_Study\Python_Study_re\Python101\Part02\Chapter015.py", line 26, in <module>
+    raise RuntimeError
+RuntimeError

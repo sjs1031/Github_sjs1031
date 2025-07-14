@@ -1,0 +1,10 @@
+2025-01-16 08:14:21,667 - Chapter015_exampleApp - INFO - Program Started
+2025-01-16 08:14:21,667 - Chapter015_exampleApp.Chapters015_otherMod2 - INFO - added 7 and 8 to get 15
+2025-01-16 08:14:21,667 - Chapter015_exampleApp - INFO - Done
+2025-01-16 08:23:07,071 - exampleApp - INFO - Program Started
+2025-01-16 08:23:07,071 - exampleApp - INFO - Done
+2025-01-16 08:23:14,567 - exampleApp - INFO - Program Started
+2025-01-16 08:23:14,567 - exampleApp - INFO - Done
+2025-01-16 08:25:35,131 - exampleApp - INFO - Program Started
+2025-01-16 08:25:35,132 - exampleApp.Chapters015_otherMod2 - INFO - added 7 and 8 to get 15
+2025-01-16 08:25:35,132 - exampleApp - INFO - Done

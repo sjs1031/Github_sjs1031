@@ -1,0 +1,16 @@
+NPM/
+.git/
+.venv/
+.vscode/
+
+Lib/
+lib/
+lib64/
+scripts/
+Scripts/
+share/
+pyvenv.cfg
+__pycache__/
+
+*.zip
+*.tar.*
